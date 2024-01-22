@@ -14,21 +14,18 @@ I love to keep everything organized, flexible, and maintainable in my codebase, 
 - 💾 **Testing**:  Jest, Playwright, React Testing Library, Detox
 - 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry
 - 🚀 **Languages**: Portuguese, English, Spanish
-- 🚀 **Other Skills**: Linux, AI, Hosting, Security, SEO, UX, CI/CD, Figma (Design)
+- 🚀 **Other Skills**: Linux, AI, SCRUM,  Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
-## My Projects
-[Here, list a few projects you've worked on. Provide a brief description and a link to the repository.]
+## Companies
+- **Infrabets**: [Betting system] ([https://infrabets.com.br/])
 
-- **Project 1**: [Description] ([Link to Repository])
-- **Project 2**: [Description] ([Link to Repository])
-- **Project 3**: [Description] ([Link to Repository])
+## Private Projects
+- **Plataforma Bet**: [Betting system] 
+- **Floc Food**: [App for ask for food, like iFood] 
 
 ## Let's Connect
-- 🌐 [Portfolio Website](#) _[Add link to your portfolio or personal website]_
-- 📫 Email: [Your Email]
-- 📱 LinkedIn: [Your LinkedIn Profile](#) _[Add link to your LinkedIn profile]_
+- 📫 Email: pabllobeg@gmail.com
+- 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](#) 
 
 ---
-
-Feel free to look around my repositories and don't hesitate to reach out if you have any questions or just want to network!
-
+[Versão em português](README-ptBR.md)
