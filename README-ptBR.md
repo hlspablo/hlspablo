@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 Sou um desenvolvedor apaixonado e criativo de React e React Native com um forte foco em TypeScript. 
-Desenvolvo cada funcionalidade pensando na experiência do usuário e no desempenho, pois acredito que o resto são apenas consequências. 
+Desenvolvo cada funcionalidade pensando na experiência do usuário, desempenho e segurança, e acredito que o resto é consequência. 
 Adoro manter tudo organizado, flexível e sustentável na minha base de código, pois o sucesso é o objetivo e o código deve estar preparado para isso.
 
 ## Principais Habilidades

@@ -3,7 +3,7 @@
 
 ## About Me
 I am a passionate and creative React and React Native developer with a strong focus on TypeScript. 
-I develop every feature with user experience and performance in mind, as I believe that the rest are just consequences. 
+I develop every feature with user experience, performance and security in mind, as I believe that the rest are just consequences. 
 I love to keep everything organized, flexible, and maintainable in my codebase, since success is the goal and the code should be prepared for it.
 
 ## Main Skills
