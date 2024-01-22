@@ -17,16 +17,16 @@ I love to keep everything organized, flexible, and maintainable in my codebase, 
 - 🚀 **Other Skills**: Linux, AI, SCRUM,  Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
 ## Companies
-- **Infrabets**: [Betting system] ([https://infrabets.com.br/])
+- **Infrabets**: [Betting system] [https://infrabets.com.br/]
 
 ## Private Projects
 - **Plataforma Bet**: [Betting system] 
 - **Floc Food**: [App for ask for food, like iFood] 
 
 ## Let's Connect
-- 🌐 Portfolio [https://webshell-hlspablo.vercel.app](#)
+- 🌐 Portfolio [https://webshell-hlspablo.vercel.app](https://webshell-hlspablo.vercel.app)
 - 📫 Email: pabllobeg@gmail.com
-- 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](#) 
+- 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
 
 ---
 [Versão em português](README-ptBR.md)
