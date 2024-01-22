@@ -11,9 +11,9 @@ I love to keep everything organized, flexible, and maintainable in my codebase, 
 - 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS
 - 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Nginx 
 - 💾 **Databases**: Postgres, MySQL, Firebase, MariaDB, Redis
-- 💾 **Testing**:  Jest, Playwright, React Testing Library, Detox
+- 🧪 **Testing**:  Jest, Playwright, React Testing Library, Detox
 - 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry
-- 🚀 **Languages**: Portuguese, English, Spanish
+- 🌟 **Languages**: Portuguese, English, Spanish
 - 🚀 **Other Skills**: Linux, AI, SCRUM,  Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
 ## Companies

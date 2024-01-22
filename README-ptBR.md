@@ -11,9 +11,9 @@ Adoro manter tudo organizado, flexível e sustentável na minha base de código,
 - 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS
 - 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Nginx 
 - 💾 **Bancos de Dados**: Postgres, MySQL, Firebase, MariaDB, Redis
-- 💾 **Testes**: Jest, Playwright, React Testing Library, Detox
+- 🧪 **Testes**: Jest, Playwright, React Testing Library, Detox
 - 🔧 **Ferramentas**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry
-- 🚀 **Idiomas**: Português, Inglês, Espanhol
+- 🌟 **Idiomas**: Português, Inglês, Espanhol
 - 🚀 **Outras Habilidades**: Linux, IA, SCRUM, Hospedagem, Segurança, SEO, UX, CI/CD, Figma (Design)
 
 ## Empresas
