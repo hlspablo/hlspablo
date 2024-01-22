@@ -2,13 +2,19 @@
 # Hello, I'm Pablo Henrique 👋
 
 ## About Me
-I'm a passionate and creative React and React Native developer with a strong focus on TypeScript. With a background in [Your Background], I bring a unique blend of skills to the table. I love building intuitive and user-friendly applications that make a difference.
+I am a passionate and creative React and React Native developer with a strong focus on TypeScript. 
+I develop every feature with user experience and performance in mind, as I believe that the rest are just consequences. 
+I love to keep everything organized, flexible, and maintainable in my codebase, since success is the goal and the code should be prepared for it.
 
-## My Skills
-- 💻 **Languages**: JavaScript (ES6+), TypeScript
-- 🌐 **Frontend**: React, React Native, HTML5, CSS3, Bootstrap
-- 🔧 **Tools**: Git, GitHub, Visual Studio Code, [Other Tools]
-- 🚀 **Other Skills**: [Other Skills]
+## Main Skills
+- 💻 **Languages**: JavaScript (ES6+), TypeScript, Java
+- 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS
+- 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Nginx 
+- 💾 **Databases**: Postgres, MySQL, Firebase, MariaDB, Redis
+- 💾 **Testing**:  Jest, Playwright, React Testing Library, Detox
+- 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry
+- 🚀 **Languages**: Portuguese, English, Spanish
+- 🚀 **Other Skills**: Linux, AI, Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
 ## My Projects
 [Here, list a few projects you've worked on. Provide a brief description and a link to the repository.]
