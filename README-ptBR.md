@@ -42,9 +42,10 @@ especialmente aquelas com as quais trabalho, como React e React Native.
 - [O Homem Mais Rico da Babilônia (George S. Clason)](https://www.amazon.com.br/Homem-Mais-Rico-Babil%C3%B4nia/dp/8595081530)
 
 ## Vamos Conectar
-- 🌐 Portfólio [https://webshell-hlspablo.vercel.app](https://webshell-hlspablo.vercel.app)
-- 📫 Email: pabllobeg@gmail.com
+- 📚 [Currículo](https://github.com/hlspablo/hlspablo/blob/main/curriculim-2024.pdf)
+- 🌐 Portfolio [Visit Portifolio](https://webshell-hlspablo.vercel.app)
 - 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
+- 📫 Email: pabllobeg@gmail.com
 
 ---
 [Versão em inglês](README.md)

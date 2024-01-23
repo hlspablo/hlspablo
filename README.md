@@ -42,9 +42,10 @@ especially those that I work with, like React and React Native.
 - [The Richest Man In Babylon (George S. Clason)](https://www.amazon.com.br/Richest-Man-Babylon-English-ebook/dp/B07H7HN6DN)
 
 ## Let's Connect
-- 🌐 Portfolio [https://webshell-hlspablo.vercel.app](https://webshell-hlspablo.vercel.app)
-- 📫 Email: pabllobeg@gmail.com
+- 📚 [Curriculum](https://github.com/hlspablo/hlspablo/blob/main/curriculim-2024.pdf)
+- 🌐 Portfolio [Visit Portifolio](https://webshell-hlspablo.vercel.app)
 - 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
+- 📫 Email: pabllobeg@gmail.com
 
 ---
 [Versão em português](README-ptBR.md)
