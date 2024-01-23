@@ -7,8 +7,8 @@ Desenvolvo cada funcionalidade tendo em mente a experiência do usuário, desemp
 Amo manter tudo organizado, flexível e manutenível no meu código, pois o sucesso é o objetivo final e o código deve estar preparado para isso.
 
 ## Formação Acadêmica
-> **Instituto Federal do Píaui (IFPI)** <br />
-> Análise e Desenvolvimento de Sistemas
+**Instituto Federal do Píaui (IFPI)** <br />
+Análise e Desenvolvimento de Sistemas
 
 ## Principais Habilidades
 - 💻 **Linguagens**: JavaScript (ES6+), TypeScript, Java, Python
