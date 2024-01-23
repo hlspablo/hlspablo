@@ -31,8 +31,10 @@ especialmente aquelas com as quais trabalho, como React e React Native.
 - **Floc Food**: Aplicativo de Entrega de Comida (2019 - Atual)
 
 ## Contribuições Open Source
+- **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)
 - **Radash**: [https://github.com/rayepps/radash/issues/87](https://github.com/rayepps/radash/issues/87)
 - **React Native MMKV**: [https://github.com/mrousavy/react-native-mmkv/issues/369](https://github.com/mrousavy/react-native-mmkv/issues/369)
+- **React Native Maps**: [https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535](https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535)
 
 ## Principais Livros
 - [Quem Pensa Enriqueçe (Napoleon Hill)](https://www.amazon.com.br/Quem-Pensa-Enriquece-Legado-Napoleon/dp/8568014542)

@@ -31,10 +31,12 @@ especially those that I work with, like React and React Native.
 - **Floc Food**: Food delivery app (2019 - Current)
 
 ## Open Source Contributions
+- **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)
 - **Radash**: [https://github.com/rayepps/radash/issues/87](https://github.com/rayepps/radash/issues/87)
 - **React Native MMKV**: [https://github.com/mrousavy/react-native-mmkv/issues/369](https://github.com/mrousavy/react-native-mmkv/issues/369)
+- **React Native Maps**: [https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535](https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535)
 
-## Main Books
+## Pri## Main Books
 - [Think and Grow Rich (Napoleon Hill)](https://www.amazon.com.br/Think-Grow-Rich-Napoleon-Hill/dp/1585424331)
 - [Secrets of the Millionaire Mind (T. Harv Eker)](https://www.amazon.com.br/Secrets-Millionaire-Mind-Mastering-English-ebook/dp/B000FCJZ3G)
 - [The Richest Man In Babylon (George S. Clason)](https://www.amazon.com.br/Richest-Man-Babylon-English-ebook/dp/B07H7HN6DN)
