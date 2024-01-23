@@ -41,7 +41,7 @@
 ## Habilidades Reais
 > Sou uma pessoa de mente muito aberta, capaz de se adaptar ao que as circunstâncias exigem, e tenho uma habilidade muito especial para aprender.
 >
-> As principais habilidades listadas acima são apenas as coisas com as quais tive mais contato, 
+> As principais habilidades listadas acima são apenas as coisas com as quais tenho mais contato, 
 mas sou capaz de liderar pessoas e aprender o que for necessário para alcançar meus objetivos. 
 >
 > Raramente desisto de coisas que considero relevantes. Estou sempre aprendendo e gosto de estar atualizado com todas as tecnologias mais recentes, 
