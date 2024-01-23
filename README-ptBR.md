@@ -1,9 +1,14 @@
 # Olá, sou Pablo Henrique 👋
 
 ## Sobre Mim
-Sou um desenvolvedor apaixonado e criativo de React e React Native com um forte foco em Experiência do Usuário. 
+
+Sou um desenvolvedor criativo e apaixonado por React e React Native com um forte foco em Experiência do Usuário.
 Desenvolvo cada funcionalidade tendo em mente a experiência do usuário, desempenho e segurança, pois acredito que o resto são apenas consequências. 
 Amo manter tudo organizado, flexível e manutenível no meu código, pois o sucesso é o objetivo final e o código deve estar preparado para isso.
+
+## Formação Acadêmica
+> **Instituto Federal do Píaui (IFPI)** <br />
+> Análise e Desenvolvimento de Sistemas
 
 ## Principais Habilidades
 - 💻 **Linguagens**: JavaScript (ES6+), TypeScript, Java, Python
@@ -12,8 +17,9 @@ Amo manter tudo organizado, flexível e manutenível no meu código, pois o suce
 - 💾 **Bancos de Dados**: Postgres, MySQL, Firebase, MariaDB, Redis
 - 🧪 **Testes**: Jest, Playwright, React Testing Library, Detox
 - 🔧 **Ferramentas**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry, BullMQ
+- 🔦 **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI (You Ain't Gonna Need It), DDD (Domain-Driven Design), TDD (Test-Driven Development)
 - 🌟 **Idiomas**: Português (Nativo), Inglês (C2), Espanhol (Básico)
-- 🚀 **Outras Habilidades**: Inteligência Artificial (Básico), SCRUM, Hosting, Segurança, SEO, UX, CI/CD, Figma (Design)
+- 🚀 **Outras Habilidades**: Inteligência Artificial (Básico), SCRUM, Hospedagem, Segurança, SEO, UX, CI/CD, Figma (Design)
 
 ## Habilidades Reais
 Sou uma pessoa de mente muito aberta, capaz de se adaptar ao que as circunstâncias exigem, e tenho uma habilidade muito especial para aprender. 
@@ -42,7 +48,7 @@ especialmente aquelas com as quais trabalho, como React e React Native.
 - [O Homem Mais Rico da Babilônia (George S. Clason)](https://www.amazon.com.br/Homem-Mais-Rico-Babil%C3%B4nia/dp/8595081530)
 
 ## Vamos Conectar
-- 📚 [Currículo](https://github.com/hlspablo/hlspablo/blob/main/curriculim-2024.pdf)
+- 📚 [Currículo](https://github.com/hlspablo/hlspablo/blob/main/curriculo.pdf)
 - 🌐 Portfolio [Visit Portifolio](https://webshell-hlspablo.vercel.app)
 - 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
 - 📫 Email: pabllobeg@gmail.com

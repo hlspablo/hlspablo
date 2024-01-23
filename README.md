@@ -5,15 +5,20 @@ I am a passionate and creative React and React Native developer with a strong fo
 I develop every feature with user experience, performance, and security in mind, as I believe that the rest are just consequences. 
 I love to keep everything organized, flexible, and maintainable in my codebase, since success is the ultimate goal and the code should be prepared for it.
 
+## Educational Background
+**Instituto Federal do Píaui (IFPI)** <br />
+Systems Analysis and Development
+
 ## Main Skills
 - 💻 **Languages**: JavaScript (ES6+), TypeScript, Java, Python
 - 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS, Django
-- 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Nginx 
-- 💾 **Databases**: Postgres, MySQL, Firebase, MongoDB, Redis
-- 🧪 **Testing**:  Jest, Playwright, React Testing Library, Detox
+- 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Nginx
+- 💾 **Databases**: Postgres, MySQL, Firebase, MariaDB, Redis
+- 🧪 **Testing**: Jest, Playwright, React Testing Library, Detox
 - 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry, BullMQ
+- 🔦 **Techniques**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD,TDD
 - 🌟 **Languages**: Portuguese (Native), English (C2), Spanish (Basic)
-- 🚀 **Other Skills**: Artificial Intelligence (Basic), SCRUM,  Hosting, Security, SEO, UX, CI/CD, Figma (Design)
+- 🚀 **Other Skills**: Artificial Intelligence (Basic), SCRUM, Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
 ## Real Skills
 I am a very open-minded person, capable of adapting to what the circumstances require, and I have a very special ability to learn. 
@@ -42,7 +47,7 @@ especially those that I work with, like React and React Native.
 - [The Richest Man In Babylon (George S. Clason)](https://www.amazon.com.br/Richest-Man-Babylon-English-ebook/dp/B07H7HN6DN)
 
 ## Let's Connect
-- 📚 [Curriculum](https://github.com/hlspablo/hlspablo/blob/main/curriculim-2024.pdf)
+- 📚 [Curriculum](https://github.com/hlspablo/hlspablo/blob/main/curriculum.pdf)
 - 🌐 Portfolio [Visit Portifolio](https://webshell-hlspablo.vercel.app)
 - 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
 - 📫 Email: pabllobeg@gmail.com
