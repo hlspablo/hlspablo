@@ -23,12 +23,12 @@ I rarely give up on things that I consider relevant. I'm always learning and lik
 especially those that I work with, like React and React Native.
 
 ## Commercial Experiences
-- **Infrabets**: Betting system (2017-2019) [https://infrabets.com.br/]
+- **Infrabets**: Betting system (2017-2019) [Website](https://infrabets.com.br)
 
 ## Private Projects
 - **Plataforma Bet**: Betting system (2015-2016)
 - **Já Zerei**: Game exchange system (2023) [See Code](https://github.com/hlspablo/jazerei)
-- **Floc Food**: Food delivery app (2019 - Current)
+- **Floc Food**: Food delivery app (2019 - 2023)
 
 ## Open Source Contributions
 - **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)

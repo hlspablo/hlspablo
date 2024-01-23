@@ -23,12 +23,12 @@ Raramente desisto de coisas que considero relevantes. Estou sempre aprendendo e 
 especialmente aquelas com as quais trabalho, como React e React Native.
 
 ## Experiências Comerciais
-- **Infrabets**: Sistema de apostas (2017-2019) [https://infrabets.com.br/]
+- **Infrabets**: Sistema de apostas (2017-2019) [Website](https://infrabets.com.br)
 
 ## Projetos Privados
 - **Plataforma Bet**: Sistema de apostas (2015-2016)
 - **Já Zerei**: Sistema de troca de jogos (2023) [Ver Código](https://github.com/hlspablo/jazerei)
-- **Floc Food**: Aplicativo de Entrega de Comida (2019 - Atual)
+- **Floc Food**: Aplicativo de Entrega de Comida (2019 - 2023)
 
 ## Contribuições Open Source
 - **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)

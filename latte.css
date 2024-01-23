@@ -1,0 +1,37 @@
+/* processor
+* https://md-to-pdf.fly.dev/
+* using: WaasyPrint 
+*/
+
+@page {
+  size: Letter; /* Change from the default size of A4 */
+  margin: 2cm; /* Set margin on each page */
+}
+a {
+  text-decoration: none;
+  color: MidnightBlue;
+}
+.profile-picture {
+ float:right;
+}
+h1 {
+  color: black;
+}
+h2 {
+    color: MidnightBlue;
+    margin-bottom: 0px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid DimGray;
+}
+
+th, td {
+  text-align: left;
+  padding: 1em;
+}
+
