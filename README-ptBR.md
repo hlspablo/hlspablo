@@ -21,7 +21,7 @@ Análise e Desenvolvimento de Sistemas
 - 🌟 **Idiomas**: Português (Nativo), Inglês (C2), Espanhol (Básico)
 - 🚀 **Outras Habilidades**: Inteligência Artificial (Básico), SCRUM, Hospedagem, Segurança, SEO, UX, CI/CD, Figma (Design)
 
-## Habilidades Reais
+##  Qualidades Pessoais
 Sou uma pessoa de mente muito aberta, capaz de se adaptar ao que as circunstâncias exigem, e tenho uma habilidade muito especial para aprender. 
 As principais habilidades listadas acima são apenas as coisas com as quais tive mais contato,
 mas sou capaz de liderar pessoas e aprender o que for necessário para alcançar meus objetivos. 
