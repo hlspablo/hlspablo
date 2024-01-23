@@ -16,12 +16,21 @@ I love to keep everything organized, flexible, and maintainable in my codebase, 
 - 🌟 **Languages**: Portuguese, English, Spanish
 - 🚀 **Other Skills**: Linux, AI, SCRUM,  Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
-## Companies
-- **Infrabets**: [Betting system] [https://infrabets.com.br/]
+## Commercial Experiences
+- **Infrabets**: Betting system (2017-2019) [https://infrabets.com.br/]
 
 ## Private Projects
-- **Plataforma Bet**: [Betting system] 
-- **Floc Food**: [App for ask for food, like iFood] 
+- **Plataforma Bet**: Betting system (2015-2016)
+- **Floc Food**: Food Delivery App (2019 - Current)
+
+## Open Source Contributions
+- **Radash**: [https://github.com/rayepps/radash/issues/87](https://github.com/rayepps/radash/issues/87)
+- **React Native MMKV**: [https://github.com/mrousavy/react-native-mmkv/issues/369](https://github.com/mrousavy/react-native-mmkv/issues/369)
+
+# Main Books
+- [Think and Grow Rich (Napoleon Hill)](https://www.amazon.com.br/Think-Grow-Rich-Napoleon-Hill/dp/1585424331)
+- [Secrets of the Millionaire Mind (T. Harv Eker)](https://www.amazon.com.br/Secrets-Millionaire-Mind-Mastering-English-ebook/dp/B000FCJZ3G)
+
 
 ## Let's Connect
 - 🌐 Portfolio [https://webshell-hlspablo.vercel.app](https://webshell-hlspablo.vercel.app)
