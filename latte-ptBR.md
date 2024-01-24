@@ -47,9 +47,9 @@
 - 🧪 **Testes**: Jest, Playwright, React Testing Library, Detox
 - 🔧 **Ferramentas**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry,
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BullMQ
--  **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD,
+- 🌟 **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD,
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD
--  **Outras Habilidades**: SCRUM, Kanban, Hospedagem, Segurança, 
+- 🚀 **Outras Habilidades**: SCRUM, Kanban, Hospedagem, Segurança, 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEO, UX, CI/CD, Figma (Design)
 
 ## Idiomas 

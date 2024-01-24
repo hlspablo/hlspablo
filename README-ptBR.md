@@ -3,7 +3,7 @@
 ## Contatos
 - 📚 [Currículo](https://github.com/hlspablo/hlspablo/blob/main/curriculo.pdf)
 - 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
-- <i class="fas fa-x-twitter"></i> @hlspablox
+- X (Antigo Twitter) @hlspablox
 - 📫 E-mail: pabllobeg@gmail.com
 
 ## Quem sou eu
@@ -18,8 +18,8 @@ desempenho e segurança, pois acredito que o resto são apenas consequências di
 - 💾 **Bancos de Dados**: Postgres, MySQL, MongoDB, Redis
 - 🧪 **Testes**: Jest, Playwright, React Testing Library, Detox
 - 🔧 **Ferramentas**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry, BullMQ
--  **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD, TDD
--  **Outras Habilidades**: SCRUM, Kanban, Hospedagem, Segurança, SEO, UX, CI/CD, Figma (Design)
+- 🌟 **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD, TDD
+- 🚀 **Outras Habilidades**: SCRUM, Kanban, Hospedagem, Segurança, SEO, UX, CI/CD, Figma (Design)
 
 ## Contribuições Open Source
 - **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)

@@ -3,7 +3,7 @@
 ## Let's Connect
 - 📚 [Curriculum](https://github.com/hlspablo/hlspablo/blob/main/curriculum.pdf)
 - 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
-- <i class="fas fa-x-twitter"></i> @hlspablox
+- X (Former Twitter) @hlspablox
 - 📫 Email: pabllobeg@gmail.com
 
 ## About Me
