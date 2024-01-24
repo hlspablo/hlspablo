@@ -18,8 +18,8 @@ performance, and security, as I believe that everything else is just a consequen
 - 💾 **Databases**: Postgres, MySQL, MongoDB, Redis
 - 🧪 **Testing**: Jest, Playwright, React Testing Library, Detox
 - 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry, BullMQ
--  **Techniques**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD, TDD
--  **Other Skills**: SCRUM, Kanban, Hosting, Security, SEO, UX, CI/CD, Figma (Design)
+- 🌟  **Techniques**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD, TDD
+- 🚀  **Other Skills**: SCRUM, Kanban, Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
 ## Open Source Contributions
 - **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)
