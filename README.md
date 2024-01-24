@@ -33,7 +33,7 @@ I rarely give up on things I consider important. I am always learning and like t
 especially those I work with, like React and React Native.
 
 ## Experience and Projects
-- **Plataforma Bet**: Betting System (2015-2016)
+- **Plataforma Bet**: Betting System (2015-2016) [View code](https://github.com/hlspablo/BetBack)
 - **Infrabets**: Betting System (2017-2019) [Website](https://infrabets.com.br)
 - **Floc Food**: Food Delivery App (2019 - 2023)
 - **Já Zerei**: Game Trading System (2023) [View Code](https://github.com/hlspablo/jazerei)
