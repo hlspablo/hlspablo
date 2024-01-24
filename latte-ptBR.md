@@ -74,7 +74,7 @@ especialmente aquelas com as quais trabalho, como React e React Native.
 - **React Native MMKV**: [https://github.com/mrousavy/react-native-mmkv/issues/369](https://github.com/mrousavy/react-native-mmkv/issues/369)
 - **React Native Maps**: [https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535](https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535)
 
-## Principais Livros
+## Livros Preferidos
 - [Quem Pensa Enriqueçe (Napoleon Hill)](https://www.amazon.com.br/Quem-Pensa-Enriquece-Legado-Napoleon/dp/8568014542)
 - [Os Segredos da Mente Milionária (T. Harv Eker)](https://www.amazon.com.br/segredos-mente-milion%C3%A1ria-Harv-Eker/dp/8575422391)
 - [O Homem Mais Rico da Babilônia (George S. Clason)](https://www.amazon.com.br/Homem-Mais-Rico-Babil%C3%B4nia/dp/8595081530)

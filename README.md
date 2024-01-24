@@ -1,5 +1,11 @@
 # Hello, I'm Pablo Henrique 👋
 
+## Let's Connect
+- 📚 [Curriculum](https://github.com/hlspablo/hlspablo/blob/main/curriculum.pdf)
+- 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
+- <i class="fas fa-x-twitter"></i> @hlspablox
+- 📫 Email: pabllobeg@gmail.com
+
 ## About Me
 I am a creative developer passionate about React and React Native with a strong focus on User Experience.
 I develop each feature always keeping in mind the user experience, 
@@ -7,17 +13,13 @@ performance, and security, as I believe that everything else is just a consequen
 
 ## Key Skills
 - 💻 **Languages**: JavaScript (ES6+), TypeScript, Python, PHP
-- 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS,
-     &nbsp;&nbsp;&nbsp;Django
+- 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS, Django
 - 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Firebase, Nginx
 - 💾 **Databases**: Postgres, MySQL, MongoDB, Redis
 - 🧪 **Testing**: Jest, Playwright, React Testing Library, Detox
-- 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry,
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BullMQ
--  **Techniques**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD,
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD
--  **Other Skills**: SCRUM, Kanban, Hosting, Security, 
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEO, UX, CI/CD, Figma (Design)
+- 🔧 **Tools**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry, BullMQ
+-  **Techniques**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD, TDD
+-  **Other Skills**: SCRUM, Kanban, Hosting, Security, SEO, UX, CI/CD, Figma (Design)
 
 ## Open Source Contributions
 - **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)
@@ -42,16 +44,10 @@ especially those I work with, like React and React Native.
 **Federal Institute of Piauí (IFPI)** <br />
 Analysis and Development of Systems
 
-## Main Books
+## Loved Books
 - [Think and Grow Rich (Napoleon Hill)](https://www.amazon.com.br/Think-Grow-Rich-Napoleon-Hill/dp/1585424331)
 - [Secrets of the Millionaire Mind (T. Harv Eker)](https://www.amazon.com.br/Secrets-Millionaire-Mind-Mastering-English-ebook/dp/B000FCJZ3G)
 - [The Richest Man In Babylon (George S. Clason)](https://www.amazon.com.br/Richest-Man-Babylon-English-ebook/dp/B07H7HN6DN)
-
-## Let's Connect
-- 📚 [Curriculum](https://github.com/hlspablo/hlspablo/blob/main/curriculum.pdf)
-- 📱 LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
-- <i class="fas fa-x-twitter"></i> @hlspablox
-- 📫 Email: pabllobeg@gmail.com
 
 ---
 [Versão em português](README-ptBR.md)
