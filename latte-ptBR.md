@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 # Pablo Henrique
 
@@ -6,36 +7,58 @@
 
 ## Contatos
 - <i class="fas fa-github"></i> Github: [https://github.com/hlspablo](https://github.com/hlspablo)
-- <i class="fas fa-globe"></i>  Portfólio [https://webshell-hlspablo.vercel.app](https://webshell-hlspablo.vercel.app)
 - <i class="fas fa-linkedin"></i> LinkedIn: [https://www.linkedin.com/in/hlspablo](https://www.linkedin.com/in/hlspablo)
 - <i class="fas fa-envelope"></i>  Email: pabllobeg@gmail.com
+- <i class="fas fa-x-twitter"></i> @hlspablox
 
-## Sobre Mim
+## Experiências e Projetos
+- **Plataforma Bet: Desenvolvedor Full Stack (2015-2017)** <br />
+  Desenvolvemos uma plataforma de apostas esportivas do zero, integrada aos dados esportivos da SportsMonks.<br />
+  Stack: **Django (Python), DRF (Django Rest Framework), PostgreSQL**<br />
+  Nuvem: Google Cloud<br />
+
+- **Infrabets: Líder de Projeto / Desenvolvedor Full Stack (2017-2019)**<br />
+  Reescrevemos um script de apostas esportivas existente, adicionando inúmeras funcionalidades, tais como apostas em tempo real.<br />
+  Stack: **Laravel (PHP), Websockets, MySQL**<br />
+  Nuvem: AWS<br />
+
+- **Floc Food: Líder de Projeto / Desenvolvedor Mobile (2019 - 2023)**<br />
+  Desenvolvemos um aplicativo para realização de pedido e entrega de refeições, com rastreamento em tempo real, algo semelhante ao iFood.<br />
+  Stack: **React Native (Expo), NestJs com GraphQL (Backend), Supabase, Angular (Frontend - Cozinha)**<br />
+  Nuvem: Google Cloud Run<br />
+
+- **Já Zerei: Desenvolvedor Web (2023)**<br />
+  Desenvolvi uma plataforma para troca de jogos online, que permite aos jogadores negociarem jogos com facilidade.<br />
+  Stack: **Angular com Firebase**<br />
+  Nuvem: Vercel<br />
+
+## Quem sou eu
 > Sou um desenvolvedor criativo e apaixonado por React e React Native com um forte foco em Experiência do Usuário.
 >
 > Desenvolvo cada funcionalidade tendo sempre em mente a experiência do usuário, desempenho e segurança, pois acredito que o resto são apenas consequências disso.
->
-> Amo manter tudo organizado, flexível e manutenível no meu código, pois o sucesso é o objetivo final e o código deve estar preparado para isso.
+<br /><br /><br />
+
+## Principais Habilidades
+- 💻 **Linguagens**: JavaScript (ES6+), TypeScript, Python, PHP
+- 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS,
+     &nbsp;&nbsp;&nbsp;Django
+- 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Firebase, Nginx
+- 💾 **Bancos de Dados**: Postgres, MySQL, MongoDB, Redis
+- 🧪 **Testes**: Jest, Playwright, React Testing Library, Detox
+- 🔧 **Ferramentas**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry,
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BullMQ
+-  **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD,
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TDD
+-  **Outras Habilidades**: SCRUM, Kanban, Hospedagem, Segurança, 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEO, UX, CI/CD, Figma (Design)
+
+## Idiomas 
+> Português **(Nativo)**, Inglês **(C2)**, Espanhol **(Básico)**
 
 ## Formação Acadêmica
 > **Instituto Federal do Píaui (IFPI)** <br />
 > Análise e Desenvolvimento de Sistemas
 
-## Principais Habilidades
-- 💻 **Linguagens**: JavaScript (ES6+), TypeScript, Java, Python
-- 🌐 **Frontend**: React, React Native, Angular, NextJS, TailwindCSS, SASS,
-     &nbsp;&nbsp;&nbsp;Django
-- 🔗 **Backend**: NestJS, GraphQL, REST, Supabase, Nginx
-- 💾 **Bancos de Dados**: Postgres, MySQL, Firebase, MariaDB, Redis
-- 🧪 **Testes**: Jest, Playwright, React Testing Library, Detox
-- 🔧 **Ferramentas**: Git, Docker, Bash, Neovim, TypeORM, Prisma, Sentry,
-     &nbsp;&nbsp;&nbsp;BullMQ
-- 🔦 **Técnicas**: SOLID, Design Patterns, Clean Code, DRY, DI, YAGNI, DDD,
-     &nbsp;&nbsp;&nbsp;TDD
-- 🌟 **Idiomas**: Português (Nativo), Inglês (C2), Espanhol (Básico)
-- 🚀 **Outras Habilidades**: Inteligência Artificial (Básico), SCRUM, 
-     &nbsp;&nbsp;&nbsp;Hospedagem, Segurança, SEO, UX, CI/CD, Figma (Design)
-     
 ## Qualidades Pessoais
 > Sou uma pessoa de mente muito aberta, capaz de se adaptar ao que as circunstâncias exigem, e tenho uma habilidade muito especial para aprender.
 >
@@ -44,14 +67,6 @@ mas sou capaz de liderar pessoas e aprender o que for necessário para alcançar
 >
 > Raramente desisto de coisas que considero relevantes. Estou sempre aprendendo e gosto de estar atualizado com todas as tecnologias mais recentes, 
 especialmente aquelas com as quais trabalho, como React e React Native.
-
-## Experiências Comerciais
-- **Infrabets**: Sistema de apostas (2017-2019) [\[https://infrabets.com.br\]](https://infrabets.com.br)
-
-## Projetos Privados
-- **Plataforma Bet**: Sistema de apostas (2015-2016)
-- **Já Zerei**: Sistema de troca de jogos (2023) 
-- **Floc Food**: Aplicativo de Entrega de Comida (2019 - 2023)
 
 ## Contribuições Open Source
 - **React Native Date Picker**: [https://github.com/henninghall/react-native-date-picker/pull/565](https://github.com/henninghall/react-native-date-picker/pull/565)
