@@ -16,13 +16,10 @@
 - **Infrabets**: Betting System (2017-2019)  
   Stack: Laravel (PHP), Websockets  
   [Website](https://infrabets.com.br)  
-  Private codebase  
 - **Floc Food**: Food Delivery App (2019 - 2023)  
   Stack: React Native  
-  Private codebase  
 - **Já Zerei**: Game Trading System (2023)  
-  [Live](https://jazerei.vercel.app)  
-  [View Code](https://github.com/hlspablo/jazerei)  
+  [View Live](https://jazerei.vercel.app) - [View Code](https://github.com/hlspablo/jazerei)  
 
 ## About Me
 I am a creative developer passionate about React and React Native with a strong focus on User Experience.  
@@ -52,7 +49,7 @@ I am a very open-minded person, capable of adapting to what circumstances requir
 The main skills listed above are just the things I have been most in contact with,
 but I am capable of leading people and learning whatever is necessary to achieve my goals.  
   
-I rarely give up on things I consider important. I am always learning and like to stay updated with all the latest technologies, 
+I never give up on things that I consider important. I am always learning and like to stay updated with all the latest technologies, 
 especially those I work with, like React and React Native.
 
 ## Academic Background
