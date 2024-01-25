@@ -12,8 +12,7 @@
   [View code](https://github.com/hlspablo/BetBack)  
 - **Arena Tips**: Landpage for a bet counseling agency (2017)  
   Stack: React (Create React App)  
-  [Live](https://arenatips.vercel.app)  
-  [View code](https://github.com/hlspablo/arenatips)  
+  [View Live](https://arenatips.vercel.app) - [View code](https://github.com/hlspablo/arenatips)  
 - **Infrabets**: Betting System (2017-2019)  
   Stack: Laravel (PHP), Websockets  
   [Website](https://infrabets.com.br)  
@@ -57,13 +56,14 @@ I rarely give up on things I consider important. I am always learning and like t
 especially those I work with, like React and React Native.
 
 ## Academic Background
-**Federal Institute of Piauí (IFPI)** <br />
+**Federal Institute of Piauí (IFPI)**  
 Analysis and Development of Systems
 
 ## Loved Books
 - [Think and Grow Rich (Napoleon Hill)](https://www.amazon.com.br/Think-Grow-Rich-Napoleon-Hill/dp/1585424331)
 - [Secrets of the Millionaire Mind (T. Harv Eker)](https://www.amazon.com.br/Secrets-Millionaire-Mind-Mastering-English-ebook/dp/B000FCJZ3G)
 - [The Richest Man In Babylon (George S. Clason)](https://www.amazon.com.br/Richest-Man-Babylon-English-ebook/dp/B07H7HN6DN)
-
+- [Influence: The Psychology of Persuasion (Robert B. Cialdini)](https://www.amazon.com.br/Influence-Psychology-Robert-PhD-Cialdini/dp/006124189X)
 ---
+
 [Versão em português](README-ptBR.md)
