@@ -17,6 +17,11 @@
   Stack: **Django (Python), DRF (Django Rest Framework), PostgreSQL**<br />
   Nuvem: Google Cloud<br />
 
+- **Arena Tips: Desenvolvedor Web (2017)**  <br />
+  Criei uma Landpage para uma agência de consultoria de apostas  <br />
+  Stack: React (Create React App)  <br />
+  Nuvem: Vercel <br /> 
+
 - **Infrabets: Líder de Projeto / Desenvolvedor Full Stack (2017-2019)**<br />
   Reescrevemos um script de apostas esportivas existente, adicionando inúmeras funcionalidades, tais como apostas em tempo real.<br />
   Stack: **Laravel (PHP), Websockets, MySQL**<br />

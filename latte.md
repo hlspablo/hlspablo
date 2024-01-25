@@ -14,7 +14,12 @@
 - **Bet Platform: Full Stack Developer (2015-2017)** <br />
   Developed a sports betting platform from scratch, integrated with sports data from SportMonks.<br />
   Stack: **Django (Python), DRF (Django Rest Framework), PostgreSQL**<br />
-  Cloud: Google Cloud<br />
+  Cloud: Google Cloud <br />
+
+- **Arena Tips: Web Developer (2017)** <br />
+  Created a Landpage for a bet counseling agency <br />
+  Stack: React (Create React App)  <br />
+  Cloud: Vercel<br />
 
 - **Infrabets: Project Leader / Full Stack Developer (2017-2019)**<br />
   Rewrote an existing sports betting script, adding numerous features such as live betting.<br />
@@ -63,7 +68,7 @@
 > The main skills listed above are just the things I'm most in contact with, 
 but I'm capable of leading people and learning whatever is necessary to achieve my goals. 
 >
-> I rarely give up on things I consider important. I am always learning and like to stay updated with all the latest technologies, 
+> I never give up on things that I consider important. I am always learning and like to stay updated with all the latest technologies, 
 especially those I work with, like React and React Native.
 
 ## Open Source Contributions
