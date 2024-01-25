@@ -48,13 +48,13 @@ performance, and security, as I believe that everything else is just a consequen
 - **React Native Maps**: [https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535](https://github.com/react-native-maps/react-native-maps/issues/3459#issuecomment-1184820535)
 
 ## Personal Qualities
-I am a very open-minded person, capable of adapting to what circumstances require, and have a special ability for learning. 
+I am a very open-minded person, capable of adapting to what circumstances require, and have a special ability for learning.  
+  
 The main skills listed above are just the things I have been most in contact with,
-but I am capable of leading people and learning whatever is necessary to achieve my goals. 
+but I am capable of leading people and learning whatever is necessary to achieve my goals.  
+  
 I rarely give up on things I consider important. I am always learning and like to stay updated with all the latest technologies, 
 especially those I work with, like React and React Native.
-
-
 
 ## Academic Background
 **Federal Institute of Piauí (IFPI)** <br />
