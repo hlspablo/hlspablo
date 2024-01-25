@@ -6,9 +6,29 @@
 - X (Former Twitter) @hlspablox
 - 📫 Email: pabllobeg@gmail.com
 
+## Experience and Projects
+- **Plataforma Bet**: Betting System (2015-2016)  
+  Stack: Django (Python), PostgreSQL  
+  [View code](https://github.com/hlspablo/BetBack)  
+- **Arena Tips**: Landpage for a bet counseling agency (2017)  
+  Stack: React (Create React App)  
+  [Live](https://arenatips.vercel.app)  
+  [View code](https://github.com/hlspablo/arenatips)  
+- **Infrabets**: Betting System (2017-2019)  
+  Stack: Laravel (PHP), Websockets  
+  [Website](https://infrabets.com.br)  
+  Private codebase  
+- **Floc Food**: Food Delivery App (2019 - 2023)  
+  Stack: React Native  
+  Private codebase  
+- **Já Zerei**: Game Trading System (2023)  
+  [Live](https://jazerei.vercel.app)  
+  [View Code](https://github.com/hlspablo/jazerei)  
+
 ## About Me
-I am a creative developer passionate about React and React Native with a strong focus on User Experience.
-I develop each feature always keeping in mind the user experience, 
+I am a creative developer passionate about React and React Native with a strong focus on User Experience.  
+  
+I develop each feature always keeping in mind the user experience,
 performance, and security, as I believe that everything else is just a consequence of these.
 
 ## Key Skills
@@ -34,24 +54,7 @@ but I am capable of leading people and learning whatever is necessary to achieve
 I rarely give up on things I consider important. I am always learning and like to stay updated with all the latest technologies, 
 especially those I work with, like React and React Native.
 
-## Experience and Projects
-- **Plataforma Bet**: Betting System (2015-2016)  
-  Stack: Django (Python), PostgreSQL  
-  [View code](https://github.com/hlspablo/BetBack)  
-- **Arena Tips**: Landpage for a bet counseling agency (2017)  
-  Stack: React (Create React App)  
-  [Live](https://arenatips.vercel.app)  
-  [View code](https://github.com/hlspablo/arenatips)  
-- **Infrabets**: Betting System (2017-2019)  
-  Stack: Laravel (PHP), Websockets  
-  [Website](https://infrabets.com.br)  
-  Private codebase  
-- **Floc Food**: Food Delivery App (2019 - 2023)  
-  Stack: React Native  
-  Private codebase  
-- **Já Zerei**: Game Trading System (2023)  
-  [Live](https://jazerei.vercel.app)  
-  [View Code](https://github.com/hlspablo/jazerei)  
+
 
 ## Academic Background
 **Federal Institute of Piauí (IFPI)** <br />
