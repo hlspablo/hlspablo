@@ -19,7 +19,7 @@
 
 - **Arena Tips: Desenvolvedor Web (2017)**  <br />
   Criei uma Landpage para uma agência de consultoria de apostas  <br />
-  Stack: React (Create React App)  <br />
+  Stack: **React (Create React App)**  <br />
   Nuvem: Vercel <br /> 
 
 - **Infrabets: Líder de Projeto / Desenvolvedor Full Stack (2017-2019)**<br />

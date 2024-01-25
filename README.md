@@ -48,7 +48,7 @@ performance, and security, as I believe that everything else is just a consequen
 I am a very open-minded person, capable of adapting to what circumstances require, and have a special ability for learning.  
   
 The main skills listed above are just the things I have been most in contact with,
-but I am capable of leading people and learning whatever is necessary to achieve my goals.  
+besides these, I'm capable of leading people and learning whatever is necessary to achieve my goals. 
   
 I never give up on things that I consider important. I am always learning and like to stay updated with all the latest technologies, 
 especially those I work with, like React and React Native.
