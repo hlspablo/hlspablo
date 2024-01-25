@@ -19,6 +19,7 @@
 - **Floc Food**: Food Delivery App (2019 - 2023)  
   Stack: React Native  
 - **Já Zerei**: Game Trading System (2023)  
+  Stack: Angular, Firebase  
   [View Live](https://jazerei.vercel.app) - [View Code](https://github.com/hlspablo/jazerei)  
 
 ## About Me
