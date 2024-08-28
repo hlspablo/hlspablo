@@ -1,3 +1,2 @@
-[Currículo](https://github.com/hlspablo/hlspablo/blob/main/curriculo.pdf)
-[Versão em inglês](README.md)
-
+# Olá, sou Pablo Henrique 👋
+- 📚 [Currículo](https://github.com/hlspablo/hlspablo/blob/main/curriculum.pdf)
