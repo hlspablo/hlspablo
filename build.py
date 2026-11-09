@@ -100,6 +100,12 @@ def uptime(today: dt.date) -> str:
     return f"{plural(years, 'year')}, {plural(months, 'month')}, {plural(days, 'day')}"
 
 
+def repos_label(stats: dict[str, int]) -> str:
+    if stats["contributed"]:
+        return f"{stats['repos']} {{Contributed: {stats['contributed']}}}"
+    return str(stats["repos"])
+
+
 def info_lines(stats: dict[str, int], today: dt.date) -> list[list[tuple[str, str]]]:
     """Each line is a list of (style, text) pieces."""
 
@@ -146,7 +152,7 @@ def info_lines(stats: dict[str, int], today: dt.date) -> list[list[tuple[str, st
         field("Site", "doc.adv.br"),
         blank,
         header("- GitHub Stats"),
-        pair("Repos", f"{stats['repos']} {{Contributed: {stats['contributed']}}}", "Stars", f"{stats['stars']:,}"),
+        pair("Repos", repos_label(stats), "Stars", f"{stats['stars']:,}"),
         pair("Contributions (1y)", f"{stats['contributions']:,}", "Followers", f"{stats['followers']:,}"),
     ]
 
