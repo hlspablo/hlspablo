@@ -133,7 +133,7 @@ def info_lines(stats: dict[str, int], today: dt.date) -> list[list[tuple[str, st
         field("Uptime", uptime(today)),
         field("Host", "DOC ADV (doc.adv.br)"),
         field("Kernel", "Full-Stack & Mobile Software Engineer"),
-        field("IDE", "Neovim, IntelliJ IDEA"),
+        field("IDE", "Neovim, Zed, IntelliJ IDEA"),
         blank,
         field("Languages.Programming", "TypeScript, PHP, Java, Kotlin, Swift"),
         field("Languages.Computer", "HTML, CSS, SQL, JSON, YAML"),
