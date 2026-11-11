@@ -34,7 +34,7 @@ text,tspan{white-space:pre}
 <text x="390" y="30" class="text">
 <tspan x="390" y="30"><tspan class="text">pablo@henrique </tspan><tspan class="dots">————————————————————————————————————————————————</tspan></tspan>
 <tspan x="390" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">macOS, iOS, Android, Linux</tspan></tspan>
-<tspan x="390" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">10 years, 10 months, 4 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................ </tspan><tspan class="value">10 years, 10 months, 5 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="dots"> ................................. </tspan><tspan class="value">DOC ADV (doc.adv.br)</tspan></tspan>
 <tspan x="390" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan><tspan class="text">:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">Full-Stack &amp; Mobile Software Engineer</tspan></tspan>
 <tspan x="390" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">Neovim, Zed, IntelliJ IDEA</tspan></tspan>
@@ -57,6 +57,6 @@ text,tspan{white-space:pre}
 <tspan x="390" y="470"><tspan class="dots">.</tspan></tspan>
 <tspan x="390" y="490"><tspan class="text">- GitHub Stats </tspan><tspan class="dots">————————————————————————————————————————————————</tspan></tspan>
 <tspan x="390" y="510"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan><tspan class="text">:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">58</tspan><tspan class="text"> | </tspan><tspan class="key">Stars</tspan><tspan class="text">:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">9</tspan></tspan>
-<tspan x="390" y="530"><tspan class="dots">. </tspan><tspan class="key">Contributions (1y)</tspan><tspan class="text">:</tspan><tspan class="dots"> .... </tspan><tspan class="value">4,053</tspan><tspan class="text"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">:</tspan><tspan class="dots"> ............. </tspan><tspan class="value">12</tspan></tspan>
+<tspan x="390" y="530"><tspan class="dots">. </tspan><tspan class="key">Contributions (1y)</tspan><tspan class="text">:</tspan><tspan class="dots"> .... </tspan><tspan class="value">4,065</tspan><tspan class="text"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">:</tspan><tspan class="dots"> ............. </tspan><tspan class="value">12</tspan></tspan>
 </text>
 </svg>
